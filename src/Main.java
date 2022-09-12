@@ -36,9 +36,9 @@ public class Main {
         double differenceAnnualIncomeMasha = increasedIncomePerYearMasha - IncomePerYearMasha;
         double differenceAnnualIncomeDenis = increasedIncomePerYearDenis - IncomePerYearDenis;
         double differenceAnnualIncomeKristina = increasedIncomePerYearKristina - IncomePerYearKristina;
-        System.out.println("Маша теперь получает" + increasedWagesMasha + "рублей" + "Годовой доход вырос на" + differenceAnnualIncomeMasha + "  рублей");
-        System.out.println("Денис теперь получает" + increasedWagesDenis + "рублей" + "Годовой доход вырос на" + differenceAnnualIncomeDenis + "  рублей");
-        System.out.println("Кристина теперь получает" + increasedWagesKristina + "рублей" + "Годовой доход вырос на" + differenceAnnualIncomeKristina + "  рублей");
+        System.out.println("Маша теперь получает" + increasedWagesMasha + "рублей" + "Годовой доход вырос на " + differenceAnnualIncomeMasha + "  рублей");
+        System.out.println("Денис теперь получает" + increasedWagesDenis + "рублей" + "Годовой доход вырос на " + differenceAnnualIncomeDenis + "  рублей");
+        System.out.println("Кристина теперь получает" + increasedWagesKristina + "рублей" + "Годовой доход вырос на " + differenceAnnualIncomeKristina + "  рублей");
 
 
     }
